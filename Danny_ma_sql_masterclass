@@ -1,0 +1,10 @@
+# Danny Ma's SQL Masterclass
+This is my practice while going along with danny ma's sql masterclass with focus on our Cryptocurrency Trading SQL Case Study!
+First I start by inputing the schema in my PostgreSQL (pgAdmin4)
+The schema contained in it three tables named 
+  * members
+  * prices
+  * transactions
+  
+# Viewing the Tables
+SELECT * FROM trading.members;
