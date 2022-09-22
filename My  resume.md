@@ -1,4 +1,4 @@
-                                      Joy Chuks-Nwosu
+                                      JOY CHUKS-NWOSU
 Lagos, Nigeria |Email: chuksnwosujoy@yahoo.com /chuksivory@gmail.com | Phone No. +234 906 634 4447
 LinkedIn: linkedin.com/in/joychuksnwosu | Portfolio site: chuksivory.wixsite.com/portfolio
 
@@ -31,6 +31,7 @@ Babcock University - ilishan-remo, Ogun, Nigeria.
 ## Work Experience 
 ### Research Associate, Dun and Bradstreet Nig. Ltd.
 08/2021 - Present, Lagos, Nigeria
+
 Dun & Bradstreet is a leading global provider of mission-critical data and
 insights to help our clients compete, grow and thrive .
 * Conducted research on and led Proactive File Management of over 800 companies in Nigeria that improved their visibility and
@@ -47,8 +48,8 @@ proprietary platforms of D&B
 
 ### Financial Research Analyst, Femme-Minty
 12/2020 - 06/2021, Lagos, Nigeria (Remote)
-Femme-Minty is a financial education platform that educates women about
-financial well-being and provides resources to equip women to make informed
+
+Femme-Minty is a financial education platform that educates women about financial well-being and provides resources to equip women to make informed
 financial decisions.
 * Worked as team lead with a team of four (3) to develop a product roadmap and strategy plan to improve sales. Aided growth and
 maintenance of an effective audience database.
