@@ -1,6 +1,6 @@
                                       JOY CHUKS-NWOSU
 Lagos, Nigeria |Email: chuksnwosujoy@yahoo.com /chuksivory@gmail.com | Phone No. +234 906 634 4447
-LinkedIn: linkedin.com/in/joychuksnwosu | Portfolio site: chuksivory.wixsite.com/portfolio
+[LinkedIn](linkedin.com/in/joychuksnwosu) | [Portfolio site](chuksivory.wixsite.com/portfolio)
 
 ## Objective 
 Motivated, Thorough and meticulous Data Analyst, passionate about interpreting analysed data outputs, 
@@ -25,7 +25,9 @@ Babcock University - ilishan-remo, Ogun, Nigeria.
  
  ## Projects
 [Google Data Analytics Capstone Project 1_Cyclistic](https://www.kaggle.com/code/ivoryj/google-data-analytics-capstone-project-1-cyclistic)
+
 [Google Bellabeat Wellness Project](https://www.kaggle.com/code/ivoryj/google-bellebeat-wellness-project)
+
 [Danny Ma's 8 week SQL Challenge Case Studies](https://github.com/ChuksJoy/8weeks_sql_challenge)
 
 ## Work Experience 
