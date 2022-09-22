@@ -1,5 +1,5 @@
                                       JOY CHUKS-NWOSU
-Lagos, Nigeria |Email: chuksnwosujoy@yahoo.com /chuksivory@gmail.com | Phone No. +234 906 634 4447
+Lagos, Nigeria |Email: chuksnwosujoy@yahoo.com /chuksivory@gmail.com | Phone No. +234 906 634 4447|
 [LinkedIn](linkedin.com/in/joychuksnwosu) | [Portfolio site](chuksivory.wixsite.com/portfolio)
 
 ## Objective 
@@ -7,8 +7,8 @@ Motivated, Thorough and meticulous Data Analyst, passionate about interpreting a
 with professional experience in collecting, organizing, interpreting, and entering data figures.
 
 ## Skills
-SQL, Tableau, Google Spreadsheet, Microsoft Office, Financial Analysis, Research, PostgreSQL
-Excel, Ability to work with cross-cultural teams, Excellent Communication Skill, Fast/ Speedy Learner
+SQL| Tableau| Google Spreadsheet| Microsoft Office| Financial Analysis| Research| PostgreSQL|
+Excel| Ability to work with cross-cultural teams| Excellent Communication Skill| Fast Learner
 
 ## Education
 Google Data Analytics Certification - (01/2022 - 06/2022)
