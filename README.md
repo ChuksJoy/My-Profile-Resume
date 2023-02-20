@@ -10,7 +10,7 @@
    * all beginner technical tools used by data analysts.
    
    ### Skills
-  My Technical Skills Include R, SQL, Excel and Basic Python
+  My Technical Skills Include R, SQL, Excel and Python
    ### Portfolio 
    
 - View my Portfolio [HERE](https://chuksivory.wixsite.com/portfolio)
