@@ -24,6 +24,9 @@ Babcock University - ilishan-remo, Ogun, Nigeria.
   * Award for academic excellence, 2015-2019
  
  ## Projects
+ 
+[Data Analysis with Python Projects](https://github.com/ChuksJoy/Python-Data-Analysis-Projects)
+
 [Google Data Analytics Capstone Project 1_Cyclistic](https://www.kaggle.com/code/ivoryj/google-data-analytics-capstone-project-1-cyclistic)
 
 [Google Bellabeat Wellness Project](https://www.kaggle.com/code/ivoryj/google-bellebeat-wellness-project)
