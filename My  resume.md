@@ -7,8 +7,8 @@ Motivated, Thorough and meticulous Data Analyst, passionate about interpreting a
 with professional experience in collecting, organizing, interpreting, and entering data figures.
 
 ## Skills
-SQL| Tableau| Google Spreadsheet| Microsoft Office| Financial Analysis| Research| PostgreSQL|
-Excel| Ability to work with cross-cultural teams| Excellent Communication Skill| Fast Learner
+MySQL| Power BI| Oracle SQL| PL/SQL| Python | R | SSIS | Excel | Google Spreadsheet| Microsoft Office| 
+Data Management |Research & Financial Analysis| Ability to work with cross-cultural teams| Excellent Communication Skill| Fast Learner
 
 ## Education
 Google Data Analytics Certification - (01/2022 - 06/2022)
@@ -31,11 +31,31 @@ Babcock University - ilishan-remo, Ogun, Nigeria.
 [Danny Ma's 8 week SQL Challenge Case Studies](https://github.com/ChuksJoy/8weeks_sql_challenge)
 
 ## Work Experience 
+### Data and Intelligence Analyst, Access Bank PLC
+12/2022 - Present, Lagos, Nigeria
+
+##### Achievements/Tasks
+* Resolved data quality management issues and collaborated with database developers to improve data collection 
+and storage processes through a standardized API.
+* Conducted data profiling and analysis, identified critical data elements and ran validity checks 
+for data quality gaps, reducing the bank's cost of operations.
+* Developed BI dashboards and interfaces with PowerBI for monitoring data quality and translating data 
+into intelligence which helped solve various business problems.
+* Performed DAX operations like temporary measures using Time Intelligence on new standards and columns and 
+carried out Power BI Gateways to keep the dashboards and reports up to date.
+* Improved policies that ensure data quality, security, and privacy while tracking data quality to pinpoint 
+potential issues harming quality and ensure that shared data can be used for a given purpose.
+* Communicating insights to data stakeholders and management while working with cross-functional teams 
+to support data-driven decision-making.
+* Managing data retrieval, running data queries, performing ETLs as well as data migration within the organization
+
 ### Research Associate, Dun and Bradstreet Nig. Ltd.
-08/2021 - Present, Lagos, Nigeria
+08/2021 - 11/2022, Lagos, Nigeria
 
 Dun & Bradstreet is a leading global provider of mission-critical data and
 insights to help our clients compete, grow and thrive .
+
+##### Achievements/Tasks
 * Conducted research on and led Proactive File Management of over 800 companies in Nigeria that improved their visibility and
 credibility to potential foreign clients & partners and assigned company ratings per D&B guidelines.
 * Conducted due diligence research on Nigerian companies and analyzed financials to support credit, sales, procurement, and other
@@ -53,6 +73,8 @@ proprietary platforms of D&B
 
 Femme-Minty is a financial education platform that educates women about financial well-being and provides resources to equip women to make informed
 financial decisions.
+
+##### Achievements/Tasks
 * Worked as team lead with a team of four (3) to develop a product roadmap and strategy plan to improve sales. Aided growth and
 maintenance of an effective audience database.
 * Developed financial strategies by guiding women in our community to establish financial goals, matching goals to situation with
