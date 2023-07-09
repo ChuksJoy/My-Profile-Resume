@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://your-portfolio-website.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joychuksnwosu/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red)](https://chuksivory.wixsite.com/portfolio)
 
 ## Hello, I'm Joy! 👋
 
