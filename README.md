@@ -13,6 +13,44 @@ I am a passionate data engineer with expertise in SQL, Python, and various data 
 - Data Warehousing: Knowledgeable in creating and managing data warehouses using tools like Amazon Redshift.
 - Big Data Technologies: Familiar with Apache Hadoop, Apache Spark, and cloud-based data technologies.
 - Data Modeling: Proficient in creating efficient data models using concepts like star schema and normalization.
+- ## Technical Skills
+
+- Data Migration
+- Azure Cloud Services (Advanced)
+  - Azure Data Factory
+  - Azure Synapse Analytics
+  - Azure SQL Database
+  - Azure Blob Storage
+  - Azure Data Lake Gen2
+- Data Warehousing
+- ETL (Extract, Transform, Load)
+- Database Management
+- Data Visualization
+- Python (Intermediate)
+- SQL (Advanced)
+- Microsoft Certified: Azure Data Engineer Associate (2023)
+
+## Projects
+
+**Data Migration to Azure Cloud**
+- Successfully migrated on-premises data to Azure cloud using Azure Data Factory, ensuring seamless transfer and data integrity.
+
+**Data Warehouse Implementation**
+- Designed and implemented a data warehouse architecture on Azure Synapse Analytics to consolidate data from various sources, enabling efficient data analysis.
+
+**Real-Time Data Ingestion**
+- Developed a real-time data ingestion pipeline using Azure Stream Analytics to process and analyze streaming data for actionable insights.
+
+**Automated Data Pipelines**
+- Created automated ETL pipelines with Azure Data Factory, reducing manual intervention and improving data processing efficiency.
+
+**Azure SQL Database Management**
+- Implemented performance tuning and optimization techniques for Azure SQL Database, resulting in improved query response times.
+
+**Data Visualization Dashboard**
+- Built interactive data visualization dashboards using Power BI to present key performance indicators and support data-driven decision-making.
+
+
 
 ## Portfolio
 
