@@ -54,7 +54,8 @@ Data professional with 3 years of experience in collecting, processing, and anal
 - Designed questionnaires for data collection and processed data into meaningful insights.
 - Developed market-driven content based on research, re-positioning the training curriculum.
 - Prepared various documents (business proposals, reports, etc.) and presentations in PowerPoint, Excel, and Word.
-- Analyzed audience preferences for interactive classes and utilized economic data for content creation, increasing female audience by 30%.
+- Analyzed audience preferences for interactive classes and utilized economic data for content creation, increasing female 
+ audience by 30%.
 - Created comprehensive research reports and presentations to provide insightful analysis.
 - Coordinated successful product introductions by leveraging social media and managing online community groups.
 
