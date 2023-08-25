@@ -59,14 +59,57 @@ Data professional with 3 years of experience in collecting, processing, and anal
 - Data Governance
 - Team Collaboration
 
+## Skills with Job Experience
+### Data Engineering and ETL
+- Designing and implementing end-to-end data pipelines.
+- Experience with ETL (Extract, Transform, Load) processes.
+- Proficient in utilizing Apache Airflow for orchestrating and scheduling data workflows.
+- Automation of data validation tasks using Python scripting.
+### Database Management
+- Strong proficiency in Oracle Database and Microsoft SQL Server.
+- Optimizing database schema design and query performance.
+- Experience in data profiling, integration, and validation tasks.
+- Database performance tuning and query optimization.
+### Business Intelligence and Data Analysis
+- Creating interactive dashboards and reports using Microsoft Power BI and Tableau.
+- Data visualization to translate complex data into actionable insights.
+- Statistical analysis and interpretation of data trends and patterns.
+- Utilizing SQL and Python for data analysis and reporting.
+### Data Governance and Quality
+- Implementing data governance processes to ensure data accuracy and compliance.
+- Tracking data quality issues and performing data quality management.
+- Experience with data profiling and assessing data quality.
+- Identifying opportunities for data acquisition and improving data reliability.
+### Programming and Scripting
+- Proficiency in Python for data manipulation, automation, and scripting.
+- SQL scripting for querying, data transformation, and reporting.
+- Working knowledge of PL/SQL for database-related tasks.
+### Cloud Technologies
+- Data Engineering with Microsoft Azure, demonstrating cloud-based data solutions.
+- Experience with cloud services for data storage, processing, and analysis.
+### Collaboration and Communication
+- Collaborating with cross-functional teams to integrate data from diverse sources.
+- Effective communication skills for working with stakeholders and upper management.
+- Strong teamwork and coordination skills in achieving project goals.
+
 ## Education
 - Bachelor's Degree in Economics - Babcock University - 2019
 
 ## Certifications
-- Data Engineering with Microsoft Azure - Udacity - 2023
-- Microsoft Power BI - Udemy - 2023
-- Learning Data Governance - LinkedIn - 2023
-- Google Data Analytics - Coursera - 2022
+- Microsoft Power BI Desktop for Business Intelligence (2023)
+  Issued Aug 2023 by Udemy
+- The Complete Hands-On Introduction to Apache Airflow (2023)
+  Issued Aug 2023 by Udemy
+- Data Engineering with Microsoft Azure (2023)
+  Issued Jul 2023 by Udacity
+- PL/SQL by Example - Beginner to Advanced PL/SQL (2023)
+  Issued May 2023 by Udemy
+- Learning Data Governance (2023)
+  Issued Jan 2023 by LinkedIn
+- McKinsey Forward Program (2022)
+  Issued Dec 2022 by McKinsey & Company
+- Google Data Analytics Certificate, Data Analytics (2022)
+  Issued Jun 2022 by Coursera
 
 ## Languages
 - English Proficient 
